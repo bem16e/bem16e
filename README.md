@@ -1,10 +1,11 @@
-### Hi! Hola! Nice to see you.
+### Hola! Nice to see you.
 
 Welcome to my page!
-My name is Beatriz Mejia, I am an oceanographer from Colombia 🪗, currently living in the US
+My name is ### Beatriz Mejia, I am an oceanographer from Colombia 🪗, currently living in the US
 
 I’m looking to collaborate on programming that allows research in the deep sea 🐟
 
 
-![20161016_094046](https://github.com/bem16e/bem16e/assets/133888689/07726e52-4a61-4b96-b4ef-3cd0d660a4c4)
+![IMG_9141](https://github.com/bem16e/bem16e/assets/133888689/746c9b6e-6461-456c-8048-31d228be7289)
+
 
