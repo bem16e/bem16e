@@ -6,6 +6,6 @@ My name is Beatriz Mejia-Mercado, I am an oceanographer from Colombia 🪗, curr
 I’m looking to collaborate on programming that allows research in the deep sea 🐟
 
 
-![IMG_9141](https://github.com/bem16e/bem16e/assets/133888689/746c9b6e-6461-456c-8048-31d228be7289)
+<img src = "https://github.com/bem16e/bem16e/assets/133888689/746c9b6e-6461-456c-8048-31d228be7289" width="324" height="324"> 
 
 
