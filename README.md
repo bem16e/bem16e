@@ -1,7 +1,7 @@
 ### Hola! Nice to see you.
 
 Welcome to my page!
-My name is ### Beatriz Mejia, I am an oceanographer from Colombia 🪗, currently living in the US
+My name is Beatriz Mejia-Mercado, I am an oceanographer from Colombia 🪗, currently living in the US
 
 I’m looking to collaborate on programming that allows research in the deep sea 🐟
 
